@@ -130,4 +130,221 @@
 
 .swiper-scrollbar {
   display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .girl-img1 {
+    margin-top: 15px;
+    margin-left: 320px;
+    width: 85px;
+    height: 85px;
+    flex-shrink: 0;
+  }
+  .divdiv {
+    margin-top: 4px;
+    width: 620px;
+    height: 164px;
+    margin-left: 50px;
+    background: #FAFAFA;
+  }
+  .img--rewiews1 {
+    margin-top: 26px;
+    width: 54px;
+    height: 40px;
+    flex-shrink: 0;
+  }
+  .paragraf-rewiews {
+    margin-top: 30px;
+    width: 460px;
+    height: 83px;
+    color: #000000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 216%;
+    letter-spacing: 0.56px;
+  }
+  .paragraf-rewiew {
+    display: block;
+    margin-left: 210px;
+    margin-top: 175px;
+    width: 172px;
+    height: 25px;
+    color: #000000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 186%;
+  }
+  .imgdiv2 {
+    margin-top: 15px;
+    margin-left: 300px;
+  }
+  .divrewiws2 {
+    margin-left: 40px;
+    width: 620px;
+    height: 164px;
+    background: #FAFAFA;
+  }
+  .paragraf-rewiews {
+    width: 460px;
+    height: 83px;
+    color: #000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 216%;
+    letter-spacing: 0.56px;
+  }
+  .paragraf-rewiew2 {
+    margin-top: 15px;
+    width: 172px;
+    height: 25px;
+    color: #000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 186%;
+    margin-left: 255px;
+  }
+  .img3 {
+    margin-top: 15px;
+    margin-left: 310px;
+    width: 85px;
+    height: 85px;
+    flex-shrink: 0;
+  }
+  .divrewiws3 {
+    margin-left: 50px;
+    width: 620px;
+    height: 164px;
+    background: #FAFAFA;
+  }
+  .paragraf-rewiews {
+    width: 460px;
+    height: 83px;
+    color: #000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 216%;
+    letter-spacing: 0.56px;
+  }
+  .paragraf-rewiew3 {
+    width: 172px;
+    height: 25px;
+    margin-top: 5px;
+    margin-left: 272px;
+    color: #000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 186%;
+  }
+}
+@media screen and (max-width: 576px) {
+  .girl-img1 {
+    margin-top: 15px;
+    margin-left: 150px;
+  }
+  .divdiv {
+    width: 280px;
+    height: 308px;
+    background: #FAFAFA;
+  }
+  .paragraf-rewiews {
+    margin-top: 45px;
+    width: 157px;
+    height: 239px;
+    color: #000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 255%;
+  }
+  .paragraf-rewiew {
+    margin-left: 50px;
+    margin-top: 300px;
+  }
+  .imgdiv2 {
+    margin-top: 15px;
+    margin-left: 150px;
+  }
+  .divrewiws2 {
+    width: 280px;
+    height: 308px;
+    background: #FAFAFA;
+  }
+  .paragraf-rewiews {
+    margin-top: 45px;
+    width: 157px;
+    height: 239px;
+    color: #000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 255%;
+  }
+  .paragraf-rewiew2 {
+    width: 172px;
+    height: 25px;
+    color: #000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 186%;
+    margin-left: 100px;
+    margin-top: -7px;
+  }
+  .img3 {
+    margin-top: 15px;
+    margin-left: 150px;
+  }
+  .divrewiws3 {
+    margin-left: 38px;
+    width: 280px;
+    height: 308px;
+    background: #FAFAFA;
+  }
+  .paragraf-rewiews {
+    width: 157px;
+    height: 239px;
+    color: #000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 255%;
+  }
+  .paragraf-rewiew3 {
+    margin-left: 97px;
+    width: 172px;
+    height: 25px;
+    color: #000;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 186%;
+  }
 }/*# sourceMappingURL=style.css.map */
